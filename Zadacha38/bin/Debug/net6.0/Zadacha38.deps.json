@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Zadacha/1.0.0": {
+      "Zadacha38/1.0.0": {
         "runtime": {
-          "Zadacha.dll": {}
+          "Zadacha38.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Zadacha/1.0.0": {
+    "Zadacha38/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

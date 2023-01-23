@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Zadacha")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Zadacha38")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Zadacha")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Zadacha")]
+[assembly: System.Reflection.AssemblyProductAttribute("Zadacha38")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Zadacha38")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
